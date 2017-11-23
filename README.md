@@ -10,6 +10,35 @@
 <img width=100% border="5" src="https://github.com/Priya67/GhostGame/blob/master/ghost1.gif">
 </p>
 
+### Code for each turn
+```ruby
+def take_turn
+  letter = nil
+
+  until letter
+    letter = current_player.guess(fragment)
+
+    #check if it is a valid move
+    # checking if a word with these letters exist in the dictionary
+    # If not then generate an alert for invalid move
+    unless valid_play?(letter)
+      current_player.alert_invalid_move(letter)
+      letter = nil
+    end
+  end
+
+  add_letter(letter)
+  puts "#{current_player} added the letter '#{letter}' to the fragment."
+end
+````
+
+### Code to check if Game is over
+```ruby
+def game_over?
+  remaining_players == 1
+end
+````
+
 #### Link to the documentation of the game:
 https://en.wikipedia.org/wiki/Ghost_(game)
 

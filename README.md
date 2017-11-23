@@ -7,7 +7,7 @@
 ## GHOST Game Demo
 
 <p align="center" >
-<img width=80% border="5" height = "500" src="https://github.com/Priya67/GhostGame/blob/master/ghost1.gif">
+<img width=80% border="5" height="800" src="https://github.com/Priya67/GhostGame/blob/master/ghost1.gif">
 </p>
 
 #### Link to the documentation of the game:

@@ -59,7 +59,6 @@ https://en.wikipedia.org/wiki/Ghost_(game)
 - The game is truly interesting and you can play it with anyone of any age
 
 ### Credits
-````
+
  - Ruby's magic underscore
 ![http://po-ru.com/diary/rubys-magic-underscore/](http://po-ru.com/diary/rubys-magic-underscore/)
-````

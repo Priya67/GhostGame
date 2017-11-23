@@ -61,5 +61,5 @@ https://en.wikipedia.org/wiki/Ghost_(game)
 ### Credits
 ````
  - Ruby's magic underscore
-http://po-ru.com/diary/rubys-magic-underscore/
+![http://po-ru.com/diary/rubys-magic-underscore/](http://po-ru.com/diary/rubys-magic-underscore/)
 ````

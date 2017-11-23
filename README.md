@@ -10,6 +10,17 @@
 <img width=100% border="5" src="https://github.com/Priya67/GhostGame/blob/master/ghost1.gif">
 </p>
 
+### How to Play?
+
+Just follow these 3 simple steps and you can start playing the game in less than a minute
+````
+- git clone https://github.com/Priya67/GhostGame
+
+- bundle install
+
+- run 'ruby game.rb'
+````
+
 ### Code for each turn
 ```ruby
 def take_turn
@@ -42,6 +53,9 @@ end
 #### Link to the documentation of the game:
 https://en.wikipedia.org/wiki/Ghost_(game)
 
+- Wikipedia page for the Ghost game will give a good understanding of the rules and logic behind the game.
+
+- The game is truly interesting and you can play it with anyone of any age
 
 #### Ruby's magic underscore
 http://po-ru.com/diary/rubys-magic-underscore/

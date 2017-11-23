@@ -50,12 +50,16 @@ def game_over?
 end
 ````
 
-#### Link to the documentation of the game:
+
+### Link to the documentation of the game:
 https://en.wikipedia.org/wiki/Ghost_(game)
 
 - Wikipedia page for the Ghost game will give a good understanding of the rules and logic behind the game.
 
 - The game is truly interesting and you can play it with anyone of any age
 
-#### Ruby's magic underscore
+### Credits
+````
+ - Ruby's magic underscore
 http://po-ru.com/diary/rubys-magic-underscore/
+````
